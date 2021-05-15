@@ -1,0 +1,21 @@
+
+
+body {
+    background-color: rgb(226, 238, 247);
+    font-size: 50px;
+    color:rgb(20, 24, 235);
+}
+
+.timer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    border: 1px solid rgb(34, 13, 223);
+    
+}
+
+.field{
+    flex-wrap: wrap; 
+    margin: 20px;
+    width: 110px;
+}
